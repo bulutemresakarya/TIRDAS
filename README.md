@@ -71,3 +71,28 @@ Bu projede **Full-Stack Developer, Data Engineer ve System Architect** rollerini
 - Gerçek zamanlı ve asenkron veri akışlarında (WebSockets & Chat) yüksek eşzamanlılık (concurrency), race-condition ve rate-limit problemlerini çözme becerisi.
 - Python (Data manipulation) ve Node.js (Asynchronous I/O) dünyalarının en iyi yönlerini bir araya getirerek hibrit sistem mimarileri kurma tecrübesi.
 - Bağımsız, otonom çalışan ve kendi hatalarını Telegram üzerinden raporlayıp, kendi yedeklerini alan (Self-Healing & Automated) sistemler geliştirme vizyonu.
+
+### 📸 Ekran Görüntüleri
+
+<table align="center">
+  <tr>
+    <td align="center"><img src="resimlinki" width="250px;" alt="baslik"/><br /><sub><b>görünen baslik</b></sub></td>
+    <td align="center"><img src="resimlinki" width="250px;" alt="baslik"/><br /><sub><b>görünen baslik</b></sub></td>
+    <td align="center"><img src="resimlinki" width="250px;" alt="baslik"/><br /><sub><b>görünen baslik</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="resimlinki" width="250px;" alt="baslik"/><br /><sub><b>görünen baslik</b></sub></td>
+    <td align="center"><img src="resimlinki" width="250px;" alt="baslik"/><br /><sub><b>görünen baslik</b></sub></td>
+    <td align="center"><img src="resimlinki" width="250px;" alt="baslik"/><br /><sub><b>görünen baslik</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="resimlinki" width="250px;" alt="baslik"/><br /><sub><b>görünen baslik</b></sub></td>
+    <td align="center"><img src="resimlinki" width="250px;" alt="baslik"/><br /><sub><b>görünen baslik</b></sub></td>
+    <td align="center"><img src="resimlinki" width="250px;" alt="baslik"/><br /><sub><b>görünen baslik</b></sub></td>
+  </tr>
+</table>
+
+---
+
+**Geliştirici:** Bulut Emre Sakarya
+**Tarih:** Mart-Nisan 2026
