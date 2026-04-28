@@ -74,24 +74,24 @@ Bu projede **Full-Stack Developer, Data Engineer ve System Architect** rollerini
 
 ### 📸 Ekran Görüntüleri
 
-<video src="[video.mp4](https://github.com/bulutemresakarya/TIRDAS/blob/main/video.mp4)" controls="controls" muted="muted" style="max-width: 100%;">
+<video src="tirdas_video.mp4" controls="controls" muted="muted" style="max-width: 100%;">
 </video>
 
 <table align="center">
   <tr>
     <td align="center"><img src="1.png" width="250px;" alt="baslik"/><br /><sub><b>görünen baslik</b></sub></td>
-    <td align="center"><img src="2.png" width="250px;" alt="baslik"/><br /><sub><b>görünen baslik</b></sub></td>
-    <td align="center"><img src="resimlinki" width="250px;" alt="baslik"/><br /><sub><b>görünen baslik</b></sub></td>
+    <td align="center"><img src="3.png" width="250px;" alt="baslik"/><br /><sub><b>görünen baslik</b></sub></td>
+    <td align="center"><img src="4.png" width="250px;" alt="baslik"/><br /><sub><b>görünen baslik</b></sub></td>
   </tr>
   <tr>
-    <td align="center"><img src="resimlinki" width="250px;" alt="baslik"/><br /><sub><b>görünen baslik</b></sub></td>
-    <td align="center"><img src="resimlinki" width="250px;" alt="baslik"/><br /><sub><b>görünen baslik</b></sub></td>
-    <td align="center"><img src="resimlinki" width="250px;" alt="baslik"/><br /><sub><b>görünen baslik</b></sub></td>
+    <td align="center"><img src="5.png" width="250px;" alt="baslik"/><br /><sub><b>görünen baslik</b></sub></td>
+    <td align="center"><img src="6.png" width="250px;" alt="baslik"/><br /><sub><b>görünen baslik</b></sub></td>
+    <td align="center"><img src="7.png" width="250px;" alt="baslik"/><br /><sub><b>görünen baslik</b></sub></td>
   </tr>
   <tr>
-    <td align="center"><img src="resimlinki" width="250px;" alt="baslik"/><br /><sub><b>görünen baslik</b></sub></td>
-    <td align="center"><img src="resimlinki" width="250px;" alt="baslik"/><br /><sub><b>görünen baslik</b></sub></td>
-    <td align="center"><img src="resimlinki" width="250px;" alt="baslik"/><br /><sub><b>görünen baslik</b></sub></td>
+    <td align="center"><img src="8.png" width="250px;" alt="baslik"/><br /><sub><b>görünen baslik</b></sub></td>
+    <td align="center"><img src="9.png" width="250px;" alt="baslik"/><br /><sub><b>görünen baslik</b></sub></td>
+    <td align="center"><img src="tirdas1.png" width="250px;" alt="baslik"/><br /><sub><b>görünen baslik</b></sub></td>
   </tr>
 </table>
 
