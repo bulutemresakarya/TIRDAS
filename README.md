@@ -73,9 +73,9 @@ Bu projede **Full-Stack Developer, Data Engineer ve System Architect** rollerini
 - Bağımsız, otonom çalışan ve kendi hatalarını Telegram üzerinden raporlayıp, kendi yedeklerini alan (Self-Healing & Automated) sistemler geliştirme vizyonu.
 
 ### 📸 Ekran Görüntüleri
-
+x
 <div align="center">
-  <video src="https://github.com/bulutemresakarya/TIRDAS/raw/refs/heads/main/tirdas_video.mp4" autoplay="autoplay" loop="loop" muted="muted" playsinline="playsinline" width="100%" style="max-width: 800px; border-radius: 8px;">
+  <video src="https://github.com/user-attachments/assets/83e3f404-60ca-4579-9681-125823bb0110" autoplay="autoplay" loop="loop" muted="muted" playsinline="playsinline" width="100%" style="max-width: 800px; border-radius: 8px;">
   </video>
   <br/>
   <sub><b>▶️ Tırdaş Otonom İşleyiş ve Yönetim Paneli Demosu</b></sub>
@@ -85,16 +85,25 @@ Bu projede **Full-Stack Developer, Data Engineer ve System Architect** rollerini
 <hr/>
 <br/>
 
-<h4 align="center">📱 WhatsApp Bot Arayüzü</h4>
+<h4 align="center">Tanıtım</h4>
 <table align="center">
   <tr>
     <td align="center"><img src="tirdas1.png" width="250px;" alt="Bot Karşılama"/><br /><sub><b>Karşılama & Ana Menü</b></sub></td>
     <td align="center"><img src="tirdas2.png" width="250px;" alt="Yük Bulma"/><br /><sub><b>Otonom Yük Eşleştirme</b></sub></td>
+  </tr>
+</table>
+
+<br/>
+
+<h4 align="center">📱 WhatsApp Bot Arayüzü</h4>
+<table align="center">
+  <tr>
     <td align="center"><img src="1.png" width="250px;" alt="Konum Servisleri"/><br /><sub><b>Konum Bazlı Hizmetler</b></sub></td>
     <td align="center"><img src="3.png" width="250px;" alt="Doğal Dil İşleme"/><br /><sub><b>Doğal Dil İletişimi</b></sub></td>
+   <td align="center"><img src="5.png" width="250px;" alt="Filtreleme"/><br /><sub><b>Akıllı Filtreleme</b></sub></td>
   </tr>
   <tr>
-    <td align="center"><img src="5.png" width="250px;" alt="Filtreleme"/><br /><sub><b>Akıllı Filtreleme</b></sub></td>
+    
     <td align="center"><img src="7.png" width="250px;" alt="Rota Planlama"/><br /><sub><b>Rota Planlama</b></sub></td>
     <td align="center"><img src="8.png" width="250px;" alt="Profil ve Kota"/><br /><sub><b>Kullanıcı Cüzdan & Kota</b></sub></td>
     <td align="center"><img src="9.png" width="250px;" alt="Hata Yönetimi"/><br /><sub><b>Sistem Uyarıları</b></sub></td>
