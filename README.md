@@ -26,7 +26,7 @@
 
 1. **Doğal Dil İşleme (NLP) ile Yük Eşleştirme:** Gruplardan veya kullanıcılardan gelen yapılandırılmamış, emojili ve karmaşık yük ilanlarını (Örn: *"🚛 İZMİR -> ANKARA KAPALI KASA 15 TON"*) OpenAI kullanarak analiz eder, yapılandırılmış JSON verisine çevirir ve veritabanına kaydeder.
 2. **Konum Bazlı Hizmetler:** Şoförlerin WhatsApp üzerinden gönderdiği anlık konumu alarak; en yakın lastikçi, dinlenme tesisi, lokanta gibi noktaları kuş uçuşu mesafe (Haversine formülü) ile hesaplayıp Google Maps linkleriyle birlikte sunar.
-3. **Otonom Finans & Kota Sistemi:** Kullanıcıların ücretsiz ve premium (Iyzico Entegrasyonlu) üyeliklerini, günlük/aylık API sorgu kotalarını ve sanal cüzdanlarını otomatik yönetir.
+3. **Otonom Finans & Kota Sistemi:** Kullanıcıların ücretsiz ve premium üyeliklerini, günlük/aylık API sorgu kotalarını ve sanal cüzdanlarını otomatik yönetir.
 4. **Gerçek Zamanlı Admin Paneli:** Python Streamlit ile geliştirilen panel üzerinden; anlık WhatsApp bağlantı durumu izlenebilir, şüpheli ilanlar manuel onaylanabilir, kullanıcılara canlı destek (AI-Bypass) verilebilir ve sistem metinleri (No-Code Prompt UI) anında güncellenebilir.
 
 ---
