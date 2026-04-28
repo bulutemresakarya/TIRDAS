@@ -88,8 +88,8 @@ x
 <h4 align="center">Tanıtım</h4>
 <table align="center">
   <tr>
-    <td align="center"><img src="tirdas1.png" width="250px;" alt="Bot Karşılama"/><br /><sub><b>Karşılama & Ana Menü</b></sub></td>
-    <td align="center"><img src="tirdas2.png" width="250px;" alt="Yük Bulma"/><br /><sub><b>Otonom Yük Eşleştirme</b></sub></td>
+    <td align="center"><img src="tirdas1.png" width="400px;"/></td>
+    <td align="center"><img src="tirdas2.png" width="400px;"/></td>
   </tr>
 </table>
 
@@ -98,15 +98,14 @@ x
 <h4 align="center">📱 WhatsApp Bot Arayüzü</h4>
 <table align="center">
   <tr>
-    <td align="center"><img src="1.png" width="250px;" alt="Konum Servisleri"/><br /><sub><b>Konum Bazlı Hizmetler</b></sub></td>
-    <td align="center"><img src="3.png" width="250px;" alt="Doğal Dil İşleme"/><br /><sub><b>Doğal Dil İletişimi</b></sub></td>
-   <td align="center"><img src="5.png" width="250px;" alt="Filtreleme"/><br /><sub><b>Akıllı Filtreleme</b></sub></td>
+    <td align="center"><img src="1.png" width="250px;"/></td>
+    <td align="center"><img src="3.png" width="250px;"/></td>
+   <td align="center"><img src="5.png" width="250px;"/></td>
   </tr>
   <tr>
-    
-    <td align="center"><img src="7.png" width="250px;" alt="Rota Planlama"/><br /><sub><b>Rota Planlama</b></sub></td>
-    <td align="center"><img src="8.png" width="250px;" alt="Profil ve Kota"/><br /><sub><b>Kullanıcı Cüzdan & Kota</b></sub></td>
-    <td align="center"><img src="9.png" width="250px;" alt="Hata Yönetimi"/><br /><sub><b>Sistem Uyarıları</b></sub></td>
+    <td align="center"><img src="7.png" width="250px;"/></td>
+    <td align="center"><img src="8.png" width="250px;"/></td>
+    <td align="center"><img src="9.png" width="250px;"/></td>
   </tr>
 </table>
 
@@ -115,12 +114,12 @@ x
 <h4 align="center">💻 Streamlit Admin Paneli</h4>
 <table align="center">
   <tr>
-    <td align="center"><img src="yönetim1.png" width="400px;" alt="Dashboard Genel Bakış"/><br /><sub><b>Dashboard & Genel Analitikler</b></sub></td>
-    <td align="center"><img src="yönetim2.png" width="400px;" alt="Canlı Loglar"/><br /><sub><b>Gerçek Zamanlı Sistem Logları</b></sub></td>
+    <td align="center"><img src="yönetim1.png" width="400px;"/></td>
+    <td align="center"><img src="yönetim2.png" width="400px;"/></td>
   </tr>
   <tr>
-    <td align="center"><img src="yönetim3.png" width="400px;" alt="Kullanıcı Yönetimi"/><br /><sub><b>Kullanıcı ve Üyelik Yönetimi</b></sub></td>
-    <td align="center"><img src="yönetim4.png" width="400px;" alt="Yük Onay Paneli"/><br /><sub><b>AI Bypass & Manuel Onay Paneli</b></sub></td>
+    <td align="center"><img src="yönetim3.png" width="400px;"/></td>
+    <td align="center"><img src="yönetim4.png" width="400px;"/></td>
   </tr>
 </table>
 
