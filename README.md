@@ -84,7 +84,7 @@ Bu projede **Full-Stack Developer, Data Engineer ve System Architect** rollerini
   </tr>
 </table>
 <br/>
-<h4 align="center">📱 WhatsApp Bot Arayüzü</h4>
+<h4 align="center">📱 WhatsApp Bot Arayüzünden Bazı Ekran Görüntüleri</h4>
 <table align="center">
   <tr>
     <td align="center"><img src="1.png" width="250px;"/></td>
@@ -98,7 +98,7 @@ Bu projede **Full-Stack Developer, Data Engineer ve System Architect** rollerini
   </tr>
 </table>
 <br/>
-<h4 align="center">💻 Streamlit Admin Paneli</h4>
+<h4 align="center">💻 Streamlit Admin Panelinden Bazı Ekran Görüntüleri</h4>
 <table align="center">
   <tr>
     <td align="center"><img src="yönetim1.png" width="300px;"/></td>
