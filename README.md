@@ -74,7 +74,7 @@ Bu projede **Full-Stack Developer, Data Engineer ve System Architect** rollerini
 
 ### 📸 Ekran Görüntüleri
 
-<video src="./video.mp4" controls="controls" muted="muted" style="max-width:730px;">
+<video src="video.mp4" controls="controls" muted="muted" style="max-width: 100%;">
 </video>
 
 <table align="center">
