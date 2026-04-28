@@ -76,11 +76,11 @@ Bu projede **Full-Stack Developer, Data Engineer ve System Architect** rollerini
 
 <video src="[tirdas_video.mp4](https://github.com/bulutemresakarya/TIRDAS/raw/refs/heads/main/tirdas_video.mp4)" controls="controls" muted="muted" style="max-width: 100%;">
 </video>
-
+<img src="yönetim4.png" width="250px;" alt="baslik"/>
 <table align="center">
   <tr>
-    <td align="center"><img src="tirdas1.png" width="250px;" alt="baslik"/></td>
-    <td align="center"><img src="tirdas2.png" width="250px;" alt="baslik"/></td>
+    <td align="center"><img src="tirdas1.png" width="375px;" alt="baslik"/></td>
+    <td align="center"><img src="tirdas2.png" width="375px;" alt="baslik"/></td>
   </tr>
   <tr>
     <td align="center"><img src="1.png" width="250px;" alt="baslik"/><br /><sub><b>1</b></sub></td>
@@ -96,7 +96,7 @@ Bu projede **Full-Stack Developer, Data Engineer ve System Architect** rollerini
     <td align="center"><img src="yönetim1.png" width="250px;" alt="baslik"/><br /><sub><b>y1</b></sub></td>
     <td align="center"><img src="yönetim2.png" width="250px;" alt="baslik"/><br /><sub><b>y2</b></sub></td>
     <td align="center"><img src="yönetim3.png" width="250px;" alt="baslik"/><br /><sub><b>y3</b></sub></td>
-    <td align="center"><img src="yönetim4.png" width="250px;" alt="baslik"/><br /><sub><b>y4</b></sub></td>
+    
   </tr>
 </table>
 
