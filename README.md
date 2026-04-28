@@ -100,8 +100,6 @@ Bu projede **Full-Stack Developer, Data Engineer ve System Architect** rollerini
   <tr>
     <td align="center"><img src="yönetim1.png" width="300px;"/></td>
     <td align="center"><img src="yönetim2.png" width="300px;"/></td>
-  </tr>
-  <tr>
     <td align="center"><img src="yönetim3.png" width="300px;"/></td>
     <td align="center"><img src="yönetim4.png" width="300px;"/></td>
   </tr>
