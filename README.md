@@ -76,7 +76,7 @@ Bu projede **Full-Stack Developer, Data Engineer ve System Architect** rollerini
 
 <table align="center">
   <tr>
-    <td align="center"><img src="tirdas1.png" width="400px;"/></td>
+    <td align="center"><img src="10.png" width="400px;"/></td>
     <td align="center"><img src="tirdas2.png" width="400px;"/></td>
   </tr>
 </table>
