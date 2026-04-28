@@ -74,12 +74,9 @@ Bu projede **Full-Stack Developer, Data Engineer ve System Architect** rollerini
 
 ### 📸 Ekran Görüntüleri
 
-<h4 align="center">Tanıtım</h4>
 <table align="center">
   <tr>
     <td align="center"><img src="tirdas1.png" width="400px;"/></td>
-  </tr>
- <tr>
     <td align="center"><img src="tirdas2.png" width="400px;"/></td>
   </tr>
 </table>
