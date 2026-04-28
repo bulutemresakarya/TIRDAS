@@ -79,19 +79,24 @@ Bu projede **Full-Stack Developer, Data Engineer ve System Architect** rollerini
 
 <table align="center">
   <tr>
-    <td align="center"><img src="1.png" width="250px;" alt="baslik"/><br /><sub><b>görünen baslik</b></sub></td>
-    <td align="center"><img src="3.png" width="250px;" alt="baslik"/><br /><sub><b>görünen baslik</b></sub></td>
-    <td align="center"><img src="4.png" width="250px;" alt="baslik"/><br /><sub><b>görünen baslik</b></sub></td>
+    <td align="center"><img src="tirdas1.png" width="250px;" alt="baslik"/></td>
+    <td align="center"><img src="tirdas2.png" width="250px;" alt="baslik"/></td>
   </tr>
   <tr>
-    <td align="center"><img src="5.png" width="250px;" alt="baslik"/><br /><sub><b>görünen baslik</b></sub></td>
-    <td align="center"><img src="6.png" width="250px;" alt="baslik"/><br /><sub><b>görünen baslik</b></sub></td>
-    <td align="center"><img src="7.png" width="250px;" alt="baslik"/><br /><sub><b>görünen baslik</b></sub></td>
+    <td align="center"><img src="1.png" width="250px;" alt="baslik"/><br /><sub><b>1</b></sub></td>
+    <td align="center"><img src="3.png" width="250px;" alt="baslik"/><br /><sub><b>3</b></sub></td>
+    <td align="center"><img src="5.png" width="250px;" alt="baslik"/><br /><sub><b>5</b></sub></td>
   </tr>
   <tr>
-    <td align="center"><img src="8.png" width="250px;" alt="baslik"/><br /><sub><b>görünen baslik</b></sub></td>
-    <td align="center"><img src="9.png" width="250px;" alt="baslik"/><br /><sub><b>görünen baslik</b></sub></td>
-    <td align="center"><img src="tirdas1.png" width="250px;" alt="baslik"/><br /><sub><b>görünen baslik</b></sub></td>
+    <td align="center"><img src="7.png" width="250px;" alt="baslik"/><br /><sub><b>7</b></sub></td>
+    <td align="center"><img src="9.png" width="250px;" alt="baslik"/><br /><sub><b>9</b></sub></td>
+    <td align="center"><img src="8.png" width="250px;" alt="baslik"/><br /><sub><b>8</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="yönetim1.png" width="250px;" alt="baslik"/><br /><sub><b>y1</b></sub></td>
+    <td align="center"><img src="yönetim2.png" width="250px;" alt="baslik"/><br /><sub><b>y2</b></sub></td>
+    <td align="center"><img src="yönetim3.png" width="250px;" alt="baslik"/><br /><sub><b>y3</b></sub></td>
+    <td align="center"><img src="yönetim4.png" width="250px;" alt="baslik"/><br /><sub><b>y4</b></sub></td>
   </tr>
 </table>
 
