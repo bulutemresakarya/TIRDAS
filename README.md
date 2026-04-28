@@ -73,28 +73,17 @@ Bu projede **Full-Stack Developer, Data Engineer ve System Architect** rollerini
 - Bağımsız, otonom çalışan ve kendi hatalarını Telegram üzerinden raporlayıp, kendi yedeklerini alan (Self-Healing & Automated) sistemler geliştirme vizyonu.
 
 ### 📸 Ekran Görüntüleri
-x
-<div align="center">
-  <video src="https://github.com/user-attachments/assets/83e3f404-60ca-4579-9681-125823bb0110" autoplay="autoplay" loop="loop" muted="muted" playsinline="playsinline" width="100%" style="max-width: 800px; border-radius: 8px;">
-  </video>
-  <br/>
-  <sub><b>▶️ Tırdaş Otonom İşleyiş ve Yönetim Paneli Demosu</b></sub>
-</div>
-
-<br/>
-<hr/>
-<br/>
 
 <h4 align="center">Tanıtım</h4>
 <table align="center">
   <tr>
     <td align="center"><img src="tirdas1.png" width="400px;"/></td>
+  </tr>
+ <tr>
     <td align="center"><img src="tirdas2.png" width="400px;"/></td>
   </tr>
 </table>
-
 <br/>
-
 <h4 align="center">📱 WhatsApp Bot Arayüzü</h4>
 <table align="center">
   <tr>
@@ -108,9 +97,7 @@ x
     <td align="center"><img src="9.png" width="250px;"/></td>
   </tr>
 </table>
-
 <br/>
-
 <h4 align="center">💻 Streamlit Admin Paneli</h4>
 <table align="center">
   <tr>
@@ -122,7 +109,13 @@ x
     <td align="center"><img src="yönetim4.png" width="400px;"/></td>
   </tr>
 </table>
-
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/83e3f404-60ca-4579-9681-125823bb0110" autoplay="autoplay" loop="loop" muted="muted" playsinline="playsinline" width="100%" style="max-width: 800px; border-radius: 8px;">
+  </video>
+  <br/>
+  <sub><b>▶️ Tırdaş Otonom İşleyiş ve Yönetim Paneli Demosu</b></sub>
+</div>
+<br/>
 ---
 
 **Geliştirici:** Bulut Emre Sakarya
