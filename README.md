@@ -74,7 +74,7 @@ Bu projede **Full-Stack Developer, Data Engineer ve System Architect** rollerini
 
 ### 📸 Ekran Görüntüleri
 
-<video src="tirdas_video.mp4" controls="controls" muted="muted" style="max-width: 100%;">
+<video src="[tirdas_video.mp4](https://github.com/bulutemresakarya/TIRDAS/raw/refs/heads/main/tirdas_video.mp4)" controls="controls" muted="muted" style="max-width: 100%;">
 </video>
 
 <table align="center">
