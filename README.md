@@ -79,8 +79,8 @@ Bu projede **Full-Stack Developer, Data Engineer ve System Architect** rollerini
 
 <table align="center">
   <tr>
-    <td align="center"><img src="resimlinki" width="250px;" alt="baslik"/><br /><sub><b>görünen baslik</b></sub></td>
-    <td align="center"><img src="resimlinki" width="250px;" alt="baslik"/><br /><sub><b>görünen baslik</b></sub></td>
+    <td align="center"><img src="1.png" width="250px;" alt="baslik"/><br /><sub><b>görünen baslik</b></sub></td>
+    <td align="center"><img src="2.png" width="250px;" alt="baslik"/><br /><sub><b>görünen baslik</b></sub></td>
     <td align="center"><img src="resimlinki" width="250px;" alt="baslik"/><br /><sub><b>görünen baslik</b></sub></td>
   </tr>
   <tr>
