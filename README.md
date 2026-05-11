@@ -17,8 +17,8 @@
 * **Veritabanı:** PostgreSQL (Supabase), SQL, Connection Pooling
 * **Yönetim Paneli (Admin UI):** Python, Streamlit, Pandas, Plotly, SQLAlchemy
 * **Harita ve Konum Servisleri:** Google Maps API (Places/Text Search), Geolocation (Haversine Algorithm)
-* **Dış Servisler:** OpenWeather API, Diyanet Namaz Vakitleri (Scraping/API), Iyzico (Ödeme Altyapısı), Telegram API (Alerts)
-* **DevOps & Deployment:** Docker, PM2 (Process Manager), Node-Cron, Windows Batch Scripting (Automated Backups)
+* **Dış Servisler:** OpenWeather API, Diyanet Namaz Vakitleri (Scraping/API), Telegram API (Alerts)
+* **DevOps & Deployment:** PM2 (Process Manager), Node-Cron, Windows Batch Scripting (Automated Backups)
 
 ---
 
