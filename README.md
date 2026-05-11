@@ -104,14 +104,7 @@ Bu projede **Full-Stack Developer, Data Engineer ve System Architect** rollerini
     <td align="center"><img src="yönetim4.png" width="300px;"/></td>
   </tr>
 </table>
-<br/>
-<h4 align="center">▶️ Tırdaş Otonom İşleyiş ve Yönetim Paneli Demosu</h4>
-<div align="center">
-  <video src="https://github.com/user-attachments/assets/83e3f404-60ca-4579-9681-125823bb0110" autoplay="autoplay" loop="loop" muted="muted" playsinline="playsinline" width="100%" style="max-width: 800px; border-radius: 2px;">
-  </video>
-  <br/>
-</div>
-<br/>
+
 ---
 
 **Geliştirici:** Bulut Emre Sakarya
