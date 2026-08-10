@@ -109,3 +109,11 @@ Bu projede **Full-Stack Developer, Data Engineer ve System Architect** rollerini
 
 **Geliştirici:** Bulut Emre Sakarya
 **Tarih:** Mart-Nisan 2026
+
+## 📄 Telif ve Kullanım
+
+Copyright © 2026 Bulut Emre Sakarya. Tüm hakları saklıdır.
+
+Bu depo bir **portfolyo vitrinidir**; çalıştırılabilir kaynak kod içermez. Buradaki metin, ekran görüntüleri ve tanıtım videosu yalnızca projeyi tanıtmak amacıyla yayımlanmıştır ve izinsiz çoğaltılamaz, dağıtılamaz veya ticari olarak kullanılamaz.
+
+Projenin kaynak kodu NDA kapsamındadır ve paylaşılmamaktadır.
