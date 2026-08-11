@@ -1,3 +1,15 @@
+> ## 📦 Bu depo arşivlendi
+>
+> İçerik güncel ve genişletilmiş haliyle kişisel siteme taşındı:
+>
+> ### 👉 **[Teknik vaka analizini oku](https://bulutemresakarya.github.io/vaka-analizi/tirdas/)**
+>
+> Projenin interaktif demosu: **[https://bulutemresakarya.github.io/tirdas/](https://bulutemresakarya.github.io/tirdas/)**
+>
+> Aşağıdaki metin arşiv amaçlı korunmuştur.
+
+---
+
 # 🚛 Tırdaş - Yapay Zeka Destekli Lojistik WhatsApp Asistanı
 
 > **Not:** Bu proje özel sipariş üzerine ticari bir ürün olarak geliştirilmiş olup, gizlilik anlaşmaları (NDA) ve ticari sır niteliği sebebiyle kaynak kodları kapalı tutulmaktadır. Bu doküman, projenin mimarisini, kullanılan teknolojileri ve geliştirme sürecindeki mühendislik çözümlerini sergilemek amacıyla hazırlanmış bir vaka analizidir (Case Study).
